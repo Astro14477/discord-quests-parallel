@@ -42,7 +42,7 @@ If something breaks, **open an issue**.
 
 ## Usage
 
-1. Open Discord **Web or Desktop**
+1. Open Discord **Desktop**
 2. Open **Developer Tools → Console**
 3. Paste the script
 4. Watch logs for progress
