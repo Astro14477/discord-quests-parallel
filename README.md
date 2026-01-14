@@ -84,7 +84,7 @@ Low-effort reports without logs may be ignored.
 ## Credits
 
 Based on **aamiaa’s original quest script**,  
-**heavily modified, parallelized, and optimized (with AI assistance).**
+**heavily modified, parallelized, and optimized.**
 
 ---
 
