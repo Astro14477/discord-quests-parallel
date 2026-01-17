@@ -1,5 +1,3 @@
----
-
 # discord-quests-parallel (BETA)
 
 Discord quest execution script that can handle **multiple quests at the same time** (parallel), instead of forcing you to **re-paste the code after every quest**.
@@ -8,12 +6,13 @@ Discord quest execution script that can handle **multiple quests at the same tim
 
 This is an **experimental rewrite / heavy modification** of an existing Discord quest script, focused on:
 
-* **Parallel execution**
-* **Better task handling**
-* **Less manual effort**
-* **More logging + debugging visibility**
+- **Parallel execution**
+- **Better task handling**
+- **Less manual effort**
+- **More logging + debugging visibility**
 
 It is **unstable**, **under active testing**, and released publicly to collect bug reports + edge cases.
+
 
 ---
 
