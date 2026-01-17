@@ -47,7 +47,6 @@ If something breaks, **open an issue**.
 3. Paste the script
 4. Watch logs for progress
 
-> Some quest types require the **Discord Desktop app**.
 
 ---
 
